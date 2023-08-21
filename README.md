@@ -4,10 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yulin+Xia!;" />
 </h1>
 
-<h3 align="center">Looking for 2024.1 --> 2024.5 Software Developer Intern</h3>
+
+<img align="right" height="150" src="https://media0.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif?cid=ecf05e47m2lztlzua550440x23b16f7c6prft8ftmqjzb7x8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<h3 align="center">Looking for 2024 Jan to 2024 May/Jun Software Developer Intern</h3>
 
 <br/>
-<img align="right" height="150" src="https://media0.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif?cid=ecf05e47m2lztlzua550440x23b16f7c6prft8ftmqjzb7x8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 <div align="center">
  
  🔭 I’m currently studying **Computer Engineering**
@@ -27,7 +28,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.xiayulin.online" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.character-ai.digital" target="_blank">
     <img src="https://img.shields.io/badge/AI%20Chatbot-00CCBB?style=for-the-badge&logo=ai&logoColor=white" target="_blank" />
@@ -40,8 +41,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,mongodb,c,java,docker,aws,nextjs,androidstudio,redux,tailwindcss,postman" /><br>
-    <img src="https://skillicons.dev/icons?i=react,mui,mysql,flask,html,css,vscode,figma,git,nginx,jenkins,pytorch,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,mongodb,c,java,docker,aws,nextjs,androidstudio,redux,tailwindcss" /><br>
+    <img src="https://skillicons.dev/icons?i=react,mui,mysql,flask,html,css,vscode,figma,git,nginx,jenkins,pytorch,tensorflow,postman" />
 </div>
 
 <br/>
