@@ -13,7 +13,7 @@
  
  🔭 I’m currently studying **Computer Engineering**
  
- 🌱 I’m currently learning **Devops CI/CD Pipelines**
+ 🌱 I’m currently learning **Devops CI/CD Pipelines and MLops**
 
  💬 Ask me about **anything [here](https://github.com/xiayulin123/xiayulin123/issues)**
 
