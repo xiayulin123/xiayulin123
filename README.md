@@ -33,6 +33,9 @@
   <a href="https://www.character-ai.digital" target="_blank">
     <img src="https://img.shields.io/badge/AI%20Chatbot-00CCBB?style=for-the-badge&logo=ai&logoColor=white" target="_blank" />
 
+<a href="https://github.com/xiayulin123/xiayulin123/blob/main/YulinFInal%20(1).pdf" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Resume-0074CC?style=for-the-badge&logo=file&logoColor=white" target="_blank" />
+
 
 </div>
 
