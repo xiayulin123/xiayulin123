@@ -57,6 +57,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img src="https://raw.githubusercontent.com/xiayulin123/xiayulin123/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/xiayulin123/xiayulin123/output/snake.gif" alt="Snake animation" />
 
   
   <br/><br/><br/>
