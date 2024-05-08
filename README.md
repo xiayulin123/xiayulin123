@@ -6,7 +6,7 @@
 
 
  <img align="right" height="230" src="https://media0.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif?cid=ecf05e47m2lztlzua550440x23b16f7c6prft8ftmqjzb7x8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  /> 
-<h3 align="center">Looking for 2024 Jan to 2024 May/Jun Software Developer Intern</h3>
+<h3 align="center">Looking for 2024 Sep to 2024 Dec Software Developer Intern</h3>
 
 <br/>
 <div align="center">
